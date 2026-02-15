@@ -1,4 +1,4 @@
-# OIBSIP_WebDevelopment_Task4_PizzaApp
+# OIBSIP_WebDevelopment_Task3_PizzaApp
 
 ##  Project Title
 Full Stack Pizza Ordering Web Application
